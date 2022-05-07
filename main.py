@@ -17,3 +17,6 @@ def factorial(a):
 
 def fac2(b):
     return "fac2"
+
+def fac3():
+    return "fac3"
