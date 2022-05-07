@@ -6,3 +6,5 @@ def swap(a,b):
     b = a
     a = temp
 
+def coolfunction(a):
+    a = "heelo"
