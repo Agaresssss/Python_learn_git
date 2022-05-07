@@ -7,11 +7,12 @@ def swap(a,b):
     b = a
     a = temp
 
-def coolfunction(a):
-    a = "heelo"
-
 
 
 def factorial(a):
     return a*factorial(a-1)
+
+
+def branch():
+    return "merge"
 
