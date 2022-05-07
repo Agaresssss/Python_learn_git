@@ -9,8 +9,8 @@ def swap(a,b):
 
 
 
-def factorial(a):
-    return a*factorial(a-1)
+def mainmenu():
+    return 5
 
 
 def branch():
