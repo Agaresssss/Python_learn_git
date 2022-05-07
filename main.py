@@ -15,3 +15,5 @@ def coolfunction(a):
 def factorial(a):
     return a*factorial(a-1)
 
+def fac2(b):
+    return "fac2"
